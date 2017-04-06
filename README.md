@@ -1,2 +1,0 @@
-# SpaceGame
-EHS STEM Project

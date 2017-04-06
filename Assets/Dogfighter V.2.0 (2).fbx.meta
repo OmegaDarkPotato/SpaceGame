@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: db256c33da5dc234ab5291850dfa23d3
+timeCreated: 1484669132
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cone
+    100004: Cone.001
+    100006: Cone.002
+    100008: Cube
+    100010: Cube.002
+    100012: Cube.003
+    100014: Cylinder
+    100016: Cylinder.027
+    100018: Cylinder.028
+    100020: Cylinder.029
+    100022: Cylinder.030
+    100024: Cylinder.031
+    100026: Cylinder.032
+    100028: Cylinder.033
+    100030: Cylinder.034
+    100032: Cylinder.035
+    100034: Cylinder.036
+    100036: Cylinder.037
+    100038: Cylinder.038
+    100040: Cylinder.039
+    100042: //RootNode
+    100044: Lamp
+    100046: missile fins
+    100048: missile fins.001
+    100050: missile fins.002
+    100052: missile fins.003
+    100054: missile silo
+    100056: missile silo.001
+    100058: missile silo.002
+    100060: missile silo.003
+    100062: Roundcube
+    100064: Solid
+    100066: Solid.001
+    100068: Star
+    100070: Star.001
+    100072: Torus.002
+    100074: warhead
+    100076: warhead.001
+    100078: warhead.002
+    100080: warhead.003
+    400000: Camera
+    400002: Cone
+    400004: Cone.001
+    400006: Cone.002
+    400008: Cube
+    400010: Cube.002
+    400012: Cube.003
+    400014: Cylinder
+    400016: Cylinder.027
+    400018: Cylinder.028
+    400020: Cylinder.029
+    400022: Cylinder.030
+    400024: Cylinder.031
+    400026: Cylinder.032
+    400028: Cylinder.033
+    400030: Cylinder.034
+    400032: Cylinder.035
+    400034: Cylinder.036
+    400036: Cylinder.037
+    400038: Cylinder.038
+    400040: Cylinder.039
+    400042: //RootNode
+    400044: Lamp
+    400046: missile fins
+    400048: missile fins.001
+    400050: missile fins.002
+    400052: missile fins.003
+    400054: missile silo
+    400056: missile silo.001
+    400058: missile silo.002
+    400060: missile silo.003
+    400062: Roundcube
+    400064: Solid
+    400066: Solid.001
+    400068: Star
+    400070: Star.001
+    400072: Torus.002
+    400074: warhead
+    400076: warhead.001
+    400078: warhead.002
+    400080: warhead.003
+    2300000: Cone
+    2300002: Cone.001
+    2300004: Cone.002
+    2300006: Cube
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cylinder
+    2300014: Cylinder.027
+    2300016: Cylinder.028
+    2300018: Cylinder.029
+    2300020: Cylinder.030
+    2300022: Cylinder.031
+    2300024: Cylinder.032
+    2300026: Cylinder.033
+    2300028: Cylinder.034
+    2300030: Cylinder.035
+    2300032: Cylinder.036
+    2300034: Cylinder.037
+    2300036: Cylinder.038
+    2300038: Cylinder.039
+    2300040: missile fins
+    2300042: missile fins.001
+    2300044: missile fins.002
+    2300046: missile fins.003
+    2300048: missile silo
+    2300050: missile silo.001
+    2300052: missile silo.002
+    2300054: missile silo.003
+    2300056: Roundcube
+    2300058: Solid
+    2300060: Solid.001
+    2300062: Star
+    2300064: Star.001
+    2300066: Torus.002
+    2300068: warhead
+    2300070: warhead.001
+    2300072: warhead.002
+    2300074: warhead.003
+    3300000: Cone
+    3300002: Cone.001
+    3300004: Cone.002
+    3300006: Cube
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cylinder
+    3300014: Cylinder.027
+    3300016: Cylinder.028
+    3300018: Cylinder.029
+    3300020: Cylinder.030
+    3300022: Cylinder.031
+    3300024: Cylinder.032
+    3300026: Cylinder.033
+    3300028: Cylinder.034
+    3300030: Cylinder.035
+    3300032: Cylinder.036
+    3300034: Cylinder.037
+    3300036: Cylinder.038
+    3300038: Cylinder.039
+    3300040: missile fins
+    3300042: missile fins.001
+    3300044: missile fins.002
+    3300046: missile fins.003
+    3300048: missile silo
+    3300050: missile silo.001
+    3300052: missile silo.002
+    3300054: missile silo.003
+    3300056: Roundcube
+    3300058: Solid
+    3300060: Solid.001
+    3300062: Star
+    3300064: Star.001
+    3300066: Torus.002
+    3300068: warhead
+    3300070: warhead.001
+    3300072: warhead.002
+    3300074: warhead.003
+    4300000: missile silo.003
+    4300002: warhead.003
+    4300004: missile fins.003
+    4300006: missile fins.002
+    4300008: warhead.002
+    4300010: missile silo.002
+    4300012: missile silo.001
+    4300014: warhead.001
+    4300016: missile fins.001
+    4300018: missile fins
+    4300020: warhead
+    4300022: missile silo
+    4300024: Star.001
+    4300026: Solid.001
+    4300028: Cone.002
+    4300030: Cylinder
+    4300032: Star
+    4300034: Cube.002
+    4300036: Cone.001
+    4300038: Cone
+    4300040: Solid
+    4300042: Roundcube
+    4300044: Cube
+    4300046: Cube.003
+    4300048: Cylinder.027
+    4300050: Cylinder.028
+    4300052: Cylinder.029
+    4300054: Cylinder.030
+    4300056: Cylinder.031
+    4300058: Cylinder.032
+    4300060: Cylinder.033
+    4300062: Cylinder.034
+    4300064: Cylinder.035
+    4300066: Cylinder.036
+    4300068: Cylinder.037
+    4300070: Cylinder.038
+    4300072: Cylinder.039
+    4300074: Torus.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
