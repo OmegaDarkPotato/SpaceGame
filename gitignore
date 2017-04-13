@@ -1,0 +1,37 @@
+# == Windows ===#
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+
+# == Unity ===#
+Library/*
+Build/
+Temp/
+Obj/
+UnityGenerated/
+
+# == Lightmaps == #
+LightingData*
+Lightmap-*
+ReflectionProbe*
+
+# == Mono develop ===#
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+
+# == Visual Studio ===#
+*.suo
+
+# === Meta Files Test Removal 7/15 ===#
+Assets/Editor.meta
+Assets/Misc.meta
+Assets/Resources/Hard\ Surface\ Standard/Scenes.meta
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/TimeManager.asset
+
+# == Project files that are changed every time you open the Unity project
+Library/ScriptMapper
+Documentation/
