@@ -49,7 +49,7 @@ public class MoveShip : MonoBehaviour {
 		}
 		//vel = vel * frict;
 		if (applyfrict == true) {
-			rb.drag = (1-frict) * (vel.magnitude/100000);
+			rb.drag = (1-frict) * (vel.magnitude/75000);
 			vel = vel * (frict);
 			Debug.Log ("Applied Friction");
 
